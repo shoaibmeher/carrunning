@@ -63,7 +63,7 @@ body{
    100%{ transform: rotate(360deg);}
 }
 @keyframes trackmove{
-    100%{ transform:translateX(-100vw);}
+    100%{ transform:translateX(-50vw);}
 }
 @keyframes carmove{
     0%{ transform:translatey(-5px);}
